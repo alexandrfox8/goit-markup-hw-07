@@ -1,5 +1,8 @@
-@import './utilits';
-@import './header';
+@import './utils/utilits';
+@import './utils/variables';
+@import './utils/vis-hidden';
+@import './components/header';
+@import './components/backdrop';
+@import './components/footer';
 @import './main-page';
-@import './footer';
-@import './backdrop';
+@import './portfolio-page';
